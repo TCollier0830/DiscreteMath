@@ -1,0 +1,11 @@
+Step 1 tried deleting the edge from Linville to Blowing Rock with weight 95 and this results in a connected graph, so it shall be removed
+Step 2 tried deleting the edge from Marion to Linville with weight 60 and this results in a connected graph, so it shall be removed
+Step 3 tried deleting the edge from Linville to Banner Elk with weight 50 and this results in a disconnected graph, so it shall not be removed
+Step 4 tried deleting the edge from Lenoir to Blowing Rock with weight 45 and this results in a connected graph, so it shall be removed
+Step 5 tried deleting the edge from Lenoir to Linville with weight 40 and this results in a disconnected graph, so it shall not be removed
+Step 6 tried deleting the edge from Linville to Boone with weight 35 and this results in a disconnected graph, so it shall not be removed
+Step 7 tried deleting the edge from Blowing Rock to Boone with weight 30 and this results in a disconnected graph, so it shall not be removed
+Step 8 tried deleting the edge from Boone to Jefferson with weight 25 and this results in a disconnected graph, so it shall not be removed
+Step 9 tried deleting the edge from Marion to Lenoir with weight 20 and this results in a connected graph, so it shall be removed
+Step 10 tried deleting the edge from Hickory to Lenoir with weight 20 and this results in a disconnected graph, so it shall not be removed
+Step 11 tried deleting the edge from Marion to Hickory with weight 10 and this results in a disconnected graph, so it shall not be removed

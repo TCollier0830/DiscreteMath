@@ -1,0 +1,19 @@
+node,Marion,0,0 
+node,Hickory,5,0 
+node,Lenoir,4,.5 
+node,Linville,1,1 
+node,Blowing Rock,3,1.2 
+node,Banner Elk,-.5,1.4 
+node,Boone,2,1.6 
+node,Jefferson,5.5,2 
+edge,Marion,Hickory,10 
+edge,Marion,Lenoir,20 
+edge,Marion,Linville,60 
+edge,Hickory,Lenoir,20 
+edge,Lenoir,Linville,40 
+edge,Lenoir,Blowing Rock,45 
+edge,Linville,Banner Elk,50 
+edge,Linville,Blowing Rock,95 
+edge,Linville,Boone,35 
+edge,Blowing Rock,Boone,30 
+edge,Boone,Jefferson,25 
